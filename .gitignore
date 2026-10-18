@@ -1,0 +1,8 @@
+*.pem
+*.key
+*.pub
+*.parameters.json
+bicep/*.json
+.azure/
+.runtime/
+__pycache__/
